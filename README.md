@@ -12,7 +12,7 @@
   </h4>
 </p>
 
-<img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
+<img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://octodex.github.com/femalecodertocat/"> 
 <br>
 
 
@@ -56,11 +56,11 @@ Here are some ideas to get you started:
 
 :fire: My stats: <br><br>
 
-<p> &ensp; &ensp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nupursharma26&hide=jupyter%20notebook,dart&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Nupur" width="357"/> &ensp; &ensp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brihad24&layout=compact&theme=gotham" alt="Nupur" width="425"/></p>
+<p> &ensp; &ensp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nupursharma26&hide=jupyter%20notebook,dart&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Nupur" width="357"/> &ensp; &ensp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nupursharma24&layout=compact&theme=gotham" alt="Nupur" width="425"/></p>
 
 <!-- <p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brihad24&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brihad24&layout=compact&theme=vision-friendly-dark&exclude_repo=Flight-Fare-Predictor,SummerProjects)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nupursharma26&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nupursharma26&layout=compact&theme=vision-friendly-dark&exclude_repo=Flight-Fare-Predictor,SummerProjects)](https://github.com/anuraghazra/github-readme-stats)
   </p> -->
 
 <img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
@@ -78,9 +78,6 @@ Here are some ideas to get you started:
     <a href="https://www.instagram.com/_nupursharma_/">
       <img src="https://img.shields.io/badge/Instagram-maroon?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <!-- <a href="https://twitter.com/BrihadGV">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a> -->
   </p>
 </div>
 
