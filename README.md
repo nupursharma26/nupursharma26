@@ -56,9 +56,6 @@ Here are some ideas to get you started:
 
 :fire: My stats: <br><br>
   <p>
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=nupursharma26&theme=dark&background=000000" alt="GitHub Streak"/>
-  </a>
   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nupursharma26&theme=radical&type=png" alt="GitHub Streak" /></a>
 </p>
