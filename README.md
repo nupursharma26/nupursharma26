@@ -23,7 +23,7 @@
 Here are some ideas to get you started:
 -->
 
-<img align="right" alt="gif" width="300" style="border-radius:5px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> 
+<img align="right" alt="gif" width="300" style="border-radius:5px" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"> 
 
 <!-- - :woman_technologist: Pursuing BTech in Computer Science Engineering, specializing in AIML -->
 
