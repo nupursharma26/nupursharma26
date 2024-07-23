@@ -23,7 +23,7 @@
 Here are some ideas to get you started:
 -->
 
-<img align="right" alt="gif" width="300" style="border-radius:5px" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"> 
+<img align="right" alt="gif" width="300" style="border-radius:5px" src="68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67"> 
 
 <!-- - :woman_technologist: Pursuing BTech in Computer Science Engineering, specializing in AIML -->
 
