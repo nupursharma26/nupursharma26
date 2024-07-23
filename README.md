@@ -58,10 +58,21 @@ Here are some ideas to get you started:
 
 <p> &ensp; &ensp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nupursharma26&hide=jupyter%20notebook,dart&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Nupur" width="357"/> &ensp; &ensp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nupursharma24&layout=compact&theme=gotham" alt="Nupur" width="425"/></p>
 
-<!-- <p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nupursharma26&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nupursharma26&layout=compact&theme=vision-friendly-dark&exclude_repo=Flight-Fare-Predictor,SummerProjects)](https://github.com/anuraghazra/github-readme-stats)
+<-- <p>
+[GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nupursharma26&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp;
+[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nupursharma26&layout=compact&theme=vision-friendly-dark&exclude_repo=Flight-Fare-Predictor,SummerProjects)(https://github.com/anuraghazra/github-readme-stats)
   </p> -->
+
+  <p>
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=nupursharma26&theme=dark&background=000000" alt="GitHub Streak"/>
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupursharma26&layout=compact&theme=vision-friendly-dark&exclude_repo=Flight-Fare-Predictor,SummerProjects" alt="Top Langs"/>
+  </a>
+</p>
+
 
 <img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp"> 
 
