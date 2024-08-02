@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 - 🔭 Learning some new skills.
 - 🌱 Exploring Cloud, DevOps, and Web Development through a few projects.
 - 🏫 UPES, Dehradun
-- 📄Check out my resume! [![Nupur's's Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logoColor=white)](https://drive.google.com/file/d/11FwVO89nxDQPJusE0PzfpnhZrW3LqrPe/view?usp=sharing)
 - 📫 You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nupur-sharma-009720200/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-maroon?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_nupursharma_/) 
 
 
